@@ -1,0 +1,7 @@
+username,month_year,category_name,total_spent_in_category
+bob_smith,2025-10,Rent,1200.00
+bob_smith,2025-10,Groceries,180.45
+bob_smith,2025-10,Utilities,75.20
+jane_doe,2025-10,Groceries,210.00
+jane_doe,2025-10,"Dining Out",65.00
+jane_doe,2025-10,Transport,55.50
