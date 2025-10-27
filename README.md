@@ -10,9 +10,9 @@ The repository includes the foundational database schema, a set of powerful quer
 
 **Tools Used**
 
-**.**Database: MySQL (developed using MySQL Workbench)
+.Database: MySQL (developed using MySQL Workbench)
 
-**.**Reporting: PDF (generated from LaTeX)
+.Reporting: PDF (generated from LaTeX)
 
 **Project Components**
 
@@ -48,13 +48,13 @@ This file contains a collection of SQL Data Manipulation Language (DML) queries 
 
 A professional, 2-page project summary report delivered as a PDF. The report is suitable for management or stakeholder review and contains:
 
-**.**Introduction & Abstract
+.Introduction & Abstract
 
-**.**Tools Used
+.Tools Used
 
-**.**Steps Involved in Building the Project
+.Steps Involved in Building the Project
 
-**.**Conclusion
+.Conclusion
 
 **How to Use**
 
